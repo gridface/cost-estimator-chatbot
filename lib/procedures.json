@@ -1,0 +1,120 @@
+"matches": [
+    {
+        "match": "REVISE/REPLACE KNEE JOINT",
+        "attributes": [
+            {
+                "@type": "Default Attribute",
+                "@name": "Score",
+                "value": "3.7294028"
+            },
+            {
+                "@type": "Default Attribute",
+                "@name": "Step Number",
+                "value": "0"
+            }
+        ],
+        "codeSystemResults": {
+            "@codeSystem": "CPT",
+            "concepts": {
+                "@code": "27486",
+                "description": "REVJ TOTAL KNEE ARTHRP W/WO ALGRFT 1 COMPONENT",
+                "attributes": {
+                    "@type": "Map Instance",
+                    "@name": "Sequence",
+                    "value": "0"
+                }
+            },
+            "attributes": [
+                {
+                    "@type": "Map Type",
+                    "@name": "Type",
+                    "value": "SELF_MAP"
+                },
+                {
+                    "@type": "Source Code System",
+                    "@name": "Name",
+                    "value": "CPT"
+                }
+            ]
+        }
+    },
+    {
+        "match": "REVISE/REPLACE KNEE JOINT",
+        "attributes": [
+            {
+                "@type": "Default Attribute",
+                "@name": "Score",
+                "value": "3.7294028"
+            },
+            {
+                "@type": "Default Attribute",
+                "@name": "Step Number",
+                "value": "0"
+            }
+        ],
+        "codeSystemResults": {
+            "@codeSystem": "CPT",
+            "concepts": {
+                "@code": "27487",
+                "description": "REVJ TOT KNEE ARTHRP FEM&ENTIRE TIBIAL COMPONE",
+                "attributes": {
+                    "@type": "Map Instance",
+                    "@name": "Sequence",
+                    "value": "0"
+                }
+            },
+            "attributes": [
+                {
+                    "@type": "Map Type",
+                    "@name": "Type",
+                    "value": "SELF_MAP"
+                },
+                {
+                    "@type": "Source Code System",
+                    "@name": "Name",
+                    "value": "CPT"
+                }
+            ]
+        }
+    },
+    {
+        "match": "Anesthesia for open or endoscopic total knee joint replacement",
+        "attributes": [
+            {
+                "@type": "Default Attribute",
+                "@name": "Score",
+                "value": "2.797018"
+            },
+            {
+                "@type": "Default Attribute",
+                "@name": "Step Number",
+                "value": "0"
+            }
+        ],
+        "codeSystemResults": {
+            "@codeSystem": "CPT",
+            "concepts": {
+                "@code": "01402",
+                "description": "ANESTH OPEN/SURG ARTHRS TOTAL KNEE ARTHROPLASTY",
+                "attributes": {
+                    "@type": "Map Instance",
+                    "@name": "Sequence",
+                    "value": "0"
+                }
+            },
+            "attributes": [
+                {
+                    "@type": "Map Type",
+                    "@name": "Type",
+                    "value": "SELF_MAP"
+                },
+                {
+                    "@type": "Source Code System",
+                    "@name": "Name",
+                    "value": "CPT"
+                }
+            ]
+        }
+    }
+]
+}
