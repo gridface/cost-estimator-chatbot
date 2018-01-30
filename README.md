@@ -4,7 +4,7 @@ This project uses the Microsoft Bot Framework to create a simple chatbot that pr
 
 The design is based on the MBF Simple Task Automation and follows a waterfall dialog approach to its conversational interface (CUI).
 
-Waterfalls let you collect input from a user using a sequence of steps. A bot is always in a state of providing a user with information or asking a question and then waiting for input. In the Node version of Bot Builder it's waterfalls that drive this back-n-forth flow.  
+Waterfalls let you collect input from a user using a sequence of steps. A bot is always in a state of providing a user with information or asking a question and then waiting for input.  
 
 The conversation is deployed as a REST service to be consumed by multiple channels (Skype, Webform, SMS, etc), and consumes other REST services for gathering information related to practice locations, medical procedures, and benefit plans. 
 
